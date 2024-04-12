@@ -1,7 +1,7 @@
 <H1> Recipe Management Console Application <br> <br> </H1>
 This project is a console application written in C# that allows users to manage a recipe by entering ingredients, steps, scaling the recipe, and resetting the ingredients back to their original values.
  <br> <br>
-Table of Contents <br> 
+<H2>Table of Contents</H2> <br> 
 Getting Started<br> 
 Usage<br> 
 Features<br> 
@@ -11,7 +11,7 @@ License<br>
 Getting Started<br> <br> 
 To run this application, ensure you have a C# environment set up. You can execute the code by running the main class ProgPOE.Project in your preferred IDE or command line.<br> <br> 
 
-Usage<br> 
+<H2> Usage </H2><br>
 Entering a Recipe:<br> <br> 
 
 Upon starting the application, you will be prompted to enter the number of ingredients and steps in your recipe.<br> 
