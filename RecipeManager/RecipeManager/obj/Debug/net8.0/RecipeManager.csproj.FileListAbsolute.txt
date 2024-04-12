@@ -1,0 +1,14 @@
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\bin\Debug\net8.0\RecipeManager.exe
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\bin\Debug\net8.0\RecipeManager.deps.json
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\bin\Debug\net8.0\RecipeManager.runtimeconfig.json
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\bin\Debug\net8.0\RecipeManager.dll
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\bin\Debug\net8.0\RecipeManager.pdb
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\obj\Debug\net8.0\RecipeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\obj\Debug\net8.0\RecipeManager.AssemblyInfoInputs.cache
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\obj\Debug\net8.0\RecipeManager.AssemblyInfo.cs
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\obj\Debug\net8.0\RecipeManager.csproj.CoreCompileInputs.cache
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\obj\Debug\net8.0\RecipeManager.dll
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\obj\Debug\net8.0\refint\RecipeManager.dll
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\obj\Debug\net8.0\RecipeManager.pdb
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\obj\Debug\net8.0\RecipeManager.genruntimeconfig.cache
+C:\Users\Skxnk_Hxnt42\source\repos\RecipeManager\RecipeManager\obj\Debug\net8.0\ref\RecipeManager.dll
