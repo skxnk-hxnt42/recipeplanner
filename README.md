@@ -1,4 +1,4 @@
-Recipe Management Console Application <br> <br>
+<H1> Recipe Management Console Application <br> <br> </H1>
 This project is a console application written in C# that allows users to manage a recipe by entering ingredients, steps, scaling the recipe, and resetting the ingredients back to their original values.
  <br> <br>
 Table of Contents <br> 
