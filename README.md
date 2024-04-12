@@ -31,12 +31,12 @@ The original recipe will be displayed after resetting.<br>
 Clearing All Data:<br> <br> 
 
 Finally, you can choose to clear all data and enter a new recipe if desired.<br> 
-Features<br> 
+<H2>Features</H2> <br> 
 Add, view, and manage recipes.<br> 
 Scale ingredients by different factors (half, double, or triple).<br> 
 Reset ingredients to their original quantities.<br> 
 Clear data and enter a new recipe.<br> 
-Requirements<br> 
+<H2>Requirements</H2><br> 
 C# environment (Visual Studio or other IDEs supporting C#)<br> 
 .NET framework or compatible runtime<br> 
 Contributing<br> 
